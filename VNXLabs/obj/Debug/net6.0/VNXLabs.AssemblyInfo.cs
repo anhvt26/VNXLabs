@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VNXLabs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0419e5e53aab336ebca52f921bae1b8150a7c55")]
 [assembly: System.Reflection.AssemblyProductAttribute("VNXLabs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VNXLabs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
